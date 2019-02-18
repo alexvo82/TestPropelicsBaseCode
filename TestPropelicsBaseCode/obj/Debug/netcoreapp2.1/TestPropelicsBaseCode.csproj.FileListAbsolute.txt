@@ -1,0 +1,9 @@
+C:\Users\alexv\source\repos\TestPropelicsBaseCode\TestPropelicsBaseCode\bin\Debug\netcoreapp2.1\TestPropelicsBaseCode.deps.json
+C:\Users\alexv\source\repos\TestPropelicsBaseCode\TestPropelicsBaseCode\bin\Debug\netcoreapp2.1\TestPropelicsBaseCode.dll
+C:\Users\alexv\source\repos\TestPropelicsBaseCode\TestPropelicsBaseCode\bin\Debug\netcoreapp2.1\TestPropelicsBaseCode.pdb
+C:\Users\alexv\source\repos\TestPropelicsBaseCode\TestPropelicsBaseCode\obj\Debug\netcoreapp2.1\TestPropelicsBaseCode.csprojAssemblyReference.cache
+C:\Users\alexv\source\repos\TestPropelicsBaseCode\TestPropelicsBaseCode\obj\Debug\netcoreapp2.1\TestPropelicsBaseCode.csproj.CoreCompileInputs.cache
+C:\Users\alexv\source\repos\TestPropelicsBaseCode\TestPropelicsBaseCode\obj\Debug\netcoreapp2.1\TestPropelicsBaseCode.AssemblyInfoInputs.cache
+C:\Users\alexv\source\repos\TestPropelicsBaseCode\TestPropelicsBaseCode\obj\Debug\netcoreapp2.1\TestPropelicsBaseCode.AssemblyInfo.cs
+C:\Users\alexv\source\repos\TestPropelicsBaseCode\TestPropelicsBaseCode\obj\Debug\netcoreapp2.1\TestPropelicsBaseCode.dll
+C:\Users\alexv\source\repos\TestPropelicsBaseCode\TestPropelicsBaseCode\obj\Debug\netcoreapp2.1\TestPropelicsBaseCode.pdb

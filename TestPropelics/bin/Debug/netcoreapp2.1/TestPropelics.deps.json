@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "TestPropelics/1.0.0": {
+        "dependencies": {
+          "TestPropelicsBaseCode": "1.0.0"
+        },
+        "runtime": {
+          "TestPropelics.dll": {}
+        }
+      },
+      "TestPropelicsBaseCode/1.0.0": {
+        "runtime": {
+          "TestPropelicsBaseCode.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestPropelics/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TestPropelicsBaseCode/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

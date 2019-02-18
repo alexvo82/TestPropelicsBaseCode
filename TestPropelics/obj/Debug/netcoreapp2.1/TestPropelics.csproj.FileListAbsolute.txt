@@ -1,0 +1,14 @@
+C:\Users\alexv\source\repos\TestPropelicsBaseCode\TestPropelics\bin\Debug\netcoreapp2.1\TestPropelics.deps.json
+C:\Users\alexv\source\repos\TestPropelicsBaseCode\TestPropelics\bin\Debug\netcoreapp2.1\TestPropelics.runtimeconfig.json
+C:\Users\alexv\source\repos\TestPropelicsBaseCode\TestPropelics\bin\Debug\netcoreapp2.1\TestPropelics.runtimeconfig.dev.json
+C:\Users\alexv\source\repos\TestPropelicsBaseCode\TestPropelics\bin\Debug\netcoreapp2.1\TestPropelics.dll
+C:\Users\alexv\source\repos\TestPropelicsBaseCode\TestPropelics\bin\Debug\netcoreapp2.1\TestPropelics.pdb
+C:\Users\alexv\source\repos\TestPropelicsBaseCode\TestPropelics\bin\Debug\netcoreapp2.1\TestPropelicsBaseCode.dll
+C:\Users\alexv\source\repos\TestPropelicsBaseCode\TestPropelics\bin\Debug\netcoreapp2.1\TestPropelicsBaseCode.pdb
+C:\Users\alexv\source\repos\TestPropelicsBaseCode\TestPropelics\obj\Debug\netcoreapp2.1\TestPropelics.csprojAssemblyReference.cache
+C:\Users\alexv\source\repos\TestPropelicsBaseCode\TestPropelics\obj\Debug\netcoreapp2.1\TestPropelics.csproj.CoreCompileInputs.cache
+C:\Users\alexv\source\repos\TestPropelicsBaseCode\TestPropelics\obj\Debug\netcoreapp2.1\TestPropelics.AssemblyInfoInputs.cache
+C:\Users\alexv\source\repos\TestPropelicsBaseCode\TestPropelics\obj\Debug\netcoreapp2.1\TestPropelics.AssemblyInfo.cs
+C:\Users\alexv\source\repos\TestPropelicsBaseCode\TestPropelics\obj\Debug\netcoreapp2.1\TestPropelics.csproj.CopyComplete
+C:\Users\alexv\source\repos\TestPropelicsBaseCode\TestPropelics\obj\Debug\netcoreapp2.1\TestPropelics.dll
+C:\Users\alexv\source\repos\TestPropelicsBaseCode\TestPropelics\obj\Debug\netcoreapp2.1\TestPropelics.pdb
